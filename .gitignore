@@ -1,4 +1,5 @@
 .DS_Store
+dwh.cfg
 __pycache__/
 .ipynb_checkpoints
 
